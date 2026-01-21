@@ -2,6 +2,7 @@
 
 
 ## Resources 
+* [Graph Coloring](https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec21-graphs/rec21.html)
 * [Graph Coloring in Compilers](https://www.youtube.com/watch?v=K3mi2m7ccDQ) 
 * [Applications of Graph Coloring](https://www.youtube.com/watch?v=q_TpEw1oxnA) 
 * [Introduction to Graph Coloring](https://www.youtube.com/watch?v=-gOh1aG0_zQ) 
